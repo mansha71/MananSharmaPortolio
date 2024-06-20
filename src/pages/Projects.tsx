@@ -41,7 +41,7 @@ const projectsData = [
     description:
       "Created a Java-based software suite leveraging Apache Maven to generate and visualize 2D meshes for 3D graphics, including randomized islands and biomes. Integrated pathfinding algorithms such as Dijkstra’s, DFS, and BFS. Employed an incremental development approach aligned with the software development lifecycle, managing technical debt effectively. Ensured quality with Junit for comprehensive unit testing, addressing defects promptly to maintain robustness.",
     technologies: ["Java", "Apache Maven", "JUnit"],
-    imageUrls: [c1, c1, c3, c4],
+    imageUrls: [c1, c2, c3, c4],
   },
   {
     title: "Sorting Visualizer",
