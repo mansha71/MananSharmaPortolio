@@ -1,7 +1,7 @@
 {
   "name": "kizou",
   "version": "0.1.0",
-  "homepage": "https://mansha71.github.io/MananSharmaPortolio",
+  "homepage": "https://manan-sharma-portolio.vercel.app",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.5.0",
